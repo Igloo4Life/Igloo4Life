@@ -1,4 +1,4 @@
-***~~~ Vibin & Codin ~~~***
+# ~ Vibin & Codin ~
 - 📫 Discord Igloo4Life#9555
 
 <!---
