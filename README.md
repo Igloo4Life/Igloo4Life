@@ -1,4 +1,9 @@
 # ~ Vibin & Codin ~
+## Skills
+-  Master of procrastination
+-  coding (python, html, css, c# & learning c++)
+- 🚀 innovation in dumb ideas 
+
 - 📫 Discord Igloo4Life#9555
 
 <!---
