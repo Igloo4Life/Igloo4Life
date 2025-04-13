@@ -1,21 +1,36 @@
-# ~ Vibin & Codin ~
+# About Me
 
-## Skills
-- Github
-- Cmake
+⚡&ensp;Graphics and game engine programmer
+<p><img align="center" src="./assets/DiscordLogo.png" alt="discord" height="15" width="20"/>&ensp;@igloo4life</p>
 
-## Programming Languages
-- C
-- C++
-- python
-- c#
-- HTML & CSS
 
-##Misc
-- 🚀 innovation in dumb ideas 
-- 📫 Discord Igloo4Life
+## Languages & Tools
+<p align="left"> 
+    <img src="./assets/CLogo.png" alt="c" width="40" height="40"/> 
+    &ensp;
+    <img src="./assets/CppLogo.png" alt="cplusplus" width="40" height="40"/> 
+    &ensp;
+    <img src="./assets/PythonLogo.png" alt="python" width="40" height="40"/> 
+    <br>
+    <br>
+    <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
+    <img src="./assets/CmakeLogo.png" alt="cmake" width="40" height="40"/>    
+    </a> 
+    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="./assets/UELogo.png" alt="unreal" width="40" height="40"/>    
+    </a> 
+    &ensp;
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="./assets/UnityLogo.png" alt="unity" width="40" height="40"/> 
+    </a> 
+    &ensp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="./assets/GitLogo.png" alt="git" width="40" height="40"/> 
+    </a> 
+    &ensp;
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+    <img src="./assets/LinuxLogo.png" alt="linux" width="40" height="40"/> 
+    </a> 
+</p>
 
-<!---
-Igloo4Life/Igloo4Life is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
